@@ -1,6 +1,6 @@
 # enfie
 
-Enife app using Flutter
+This Project is dedicated to "Program Kreativitas Mahasiswa" ( PKM-KC ) ITS 2023. This application is used to monitoring the condition of diapers in the elderly using an electronic nose module.
 
 ## How to use 
 
